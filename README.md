@@ -129,9 +129,10 @@
 * TCP特点
 * tcp拥塞控制
 * 传输层有什么协议
-* concurrenthashmap和hashmap区别，如何计算size
+* concurrenthashmap和hashmap区别，concurrenthashmap如何计算size
 * mysql的几种隔离级别，默认实现
 * spring生命周期
+* spring中bean调用构造器在哪个阶段
 * sql慢查询的原因
 * 线程和进程的区别
 * 多线程的好处，单核cpu呢
