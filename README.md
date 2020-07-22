@@ -173,3 +173,26 @@
 * java有哪几种map实现，区别
 * 为什么hashmap采用红黑树而不是b树b+树
 * 深度优先遍历和广度优先遍历的使用场景
+
+#### 百度提前批一面7.22
+* 设计模式知道哪些
+* 操作系统如何管理磁盘，为什么删除了以后还能被恢复
+* 实现一个LRU
+* 线程的内存空间能通信吗
+* 有序集合和无序集合
+* String和stringbuilder、stringbuffer区别
+* redis在项目中使用场景
+* byte在底层怎么存储
+* treemap
+* redis为什么采用跳表而不是红黑树
+* jvm各种
+* 知道桶排序吗
+* 红黑树像什么排序
+* innodb和myziam区别
+* double是多少位的
+* Integer和int区别
+* aop是什么
+* 论坛项目如何管理验权，确保用户是当前用户
+* docker在项目中如何使用，介绍一下docker
+* docker之间如何通信
+* elasticsearch同步的时延是什么原因造成
