@@ -370,3 +370,8 @@
 * 热点key怎么解决
 * 介绍一下流
 * jni
+* concurrenthashmap扩容部分如何优化
+* 大数相乘
+* cas底层命令
+* eden区和survior区比值
+* jvm初始参数
