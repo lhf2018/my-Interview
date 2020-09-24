@@ -375,3 +375,7 @@
 * cas底层命令
 * eden区和survior区比值
 * jvm初始参数
+* 哲学家吃饭伪代码
+* varchar建索引的坏处
+* redis和localcache区别
+* 敏感词过滤
